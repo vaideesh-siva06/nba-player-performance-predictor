@@ -1,1 +1,1 @@
-# nba-player-performance-predictor
+# NBA Player Performance Predictor
